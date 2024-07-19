@@ -38,7 +38,6 @@ pprint(response)
 {
 "msg": "Success!",
 "result_list": [
- 	{"msg": "Success!", "status": True},
  	{"msg": "Success!", "status": True}
 ],
 "status": True
