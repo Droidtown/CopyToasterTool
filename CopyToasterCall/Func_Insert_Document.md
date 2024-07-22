@@ -16,15 +16,11 @@ payload = {
 	"category": "存匯",
 	"func": "insert_document",
 	"data": {
-	"document": [
-	{
-		"title": "範例標題",
-		"content": "範例內容",
-	 	"hashtag": [
-	 		"範例內容"
-     		]
-	}
-	]
+	"document": [{"title": "範例標題",
+		      "content": "範例內容",
+    		      "hashtag": ["範例內容"
+     		                 ]
+	              }]
 	}
 }
 
