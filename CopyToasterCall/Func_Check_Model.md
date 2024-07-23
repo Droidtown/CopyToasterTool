@@ -23,9 +23,9 @@ return response
 
 ```python
 {
-    "msg": "Model is deploying...",
-    "progress_status": "processing",
-    "status": true
+"msg": "Model is deploying...",
+"progress_status": "processing",
+"status": True
 }
 ```
 
