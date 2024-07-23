@@ -29,9 +29,7 @@ pprint(response)
 ```python
 {
 "msg": "Success!",
-"result_list": [
- 	{"msg": "Success!", "status": True}
-],
+"result_list": [{"msg": "Success!", "status": True}],
 "status": True
 }
 ```
