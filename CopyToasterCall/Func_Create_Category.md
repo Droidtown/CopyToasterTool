@@ -6,12 +6,12 @@
 
 ```python
 from requests import post
-from pprint import pprint
+from pprint import pprint 
 
 url  = "https://api.droidtown.co/CopyToaster/Call/"
 
 payload = {"username": username, # 這裡填入您在 https://api.droidtown.co 使用的帳號 email。
-           "copytoaster_key": key, # 這裡填入您在 https://api.droidtown.co 登入後取得的 copytoaster_key。
+           "copytoaster_key": key, # 這裡填入您在 https://api.droidtown.co 登入後取得的 copytoaster key。
            "category": "存匯",
            "func": "create_category",
            "data": {}
