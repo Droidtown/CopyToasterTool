@@ -9,3 +9,6 @@ CopyToaster Tool 是操作 [CopyToaster](https://api.droidtown.co/document/#Copy
 - 建立文件：[Insert_Document](https://github.com/Droidtown/CopyToasterTool/blob/main/CopyToasterCall/Func_Insert_Document.md)
 - 部署模型：[Deploy_Model](https://github.com/Droidtown/CopyToasterTool/blob/main/CopyToasterCall/Func_Deploy_Model.md)
 - 檢查部署狀態：[Check_Model](https://github.com/Droidtown/CopyToasterTool/blob/main/CopyToasterCall/Func_Check_Model.md)
+- 搜尋 CopyToaster 模型：[getResult](https://github.com/Droidtown/CopyToasterTool/blob/main/CopyToasterCall/Func_GetResult.md)
+- 建立 CopyToaster 模型的 userDefined：[User_Defined](https://github.com/Droidtown/CopyToasterTool/blob/main/CopyToasterCall/Func_UpdateUserDefined.md)
+- 建立 CopyToaster 的 alias：[UpdateAlias](https://github.com/Droidtown/CopyToasterTool/blob/main/CopyToasterCall/Func_UpdateAlias.md)
